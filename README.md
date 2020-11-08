@@ -1,0 +1,2 @@
+# Learning to work with React, Express, and MongoDB
+I am using React, Express, and MongoDB to create a log of places visited during travels.  My goal is to learn a little more about React, Express, and Mongo.
