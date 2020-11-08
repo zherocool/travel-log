@@ -1,8 +1,10 @@
-# Series 
-[https://www.youtube.com/watch?v=5pQsl9u_10M](Video - Coding Garden YT)
-[https://youtu.be/5pQsl9u_10M?t=7090](2:00:00 resume)
+# Series
+[Video - Coding Garden YT](https://www.youtube.com/watch?v=5pQsl9u_10M)
 
-# Log Entry
+[2:00:00 resume](https://youtu.be/5pQsl9u_10M?t=7090)
+
+
+# Log Entry Schema
 
 * Title - Text
 * Description - Text
